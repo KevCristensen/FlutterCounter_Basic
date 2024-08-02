@@ -22,6 +22,6 @@ Una sencilla aplicación Flutter que permite a los usuarios incrementar, decreme
 
 ### Clonar el Repositorio
 
-```bash
+```bash 
 git clone https://github.com/KevCristensen/FlutterCounter_Basic.git
 cd FlutterBasicCounter
