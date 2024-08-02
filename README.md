@@ -1,16 +1,27 @@
-# flutter_application_1
+# Contador de Flutter
 
-A new Flutter project.
+Una sencilla aplicación Flutter que permite a los usuarios incrementar, decrementar y reiniciar un contador.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Incrementar el contador
+- Decrementar el contador
+- Reiniciar el contador
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de Pantalla
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Incrementar | Decrementar | Reiniciar |
+|-------------|-------------|-----------|
+| ![Incrementar](screenshots/incrementar.png) | ![Decrementar](screenshots/decrementar.png) | ![Reiniciar](screenshots/reiniciar.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+
+### Requisitos Previos
+
+- [Flutter](https://flutter.dev/docs/get-started/install) (versión 2.0 o superior)
+
+### Clonar el Repositorio
+
+```bash
+git clone https://github.com/KevCristensen/FlutterCounter_Basic.git
+cd FlutterBasicCounter
