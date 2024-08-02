@@ -4,9 +4,9 @@ Una sencilla aplicación Flutter que permite a los usuarios incrementar, decreme
 
 ## Características
 
-- Incrementar el contador
-- Decrementar el contador
-- Reiniciar el contador
+- Incrementar el contador.
+- Decrementar el contador.
+- Reiniciar el contador.
 
 ## Capturas de Pantalla
 
