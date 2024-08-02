@@ -6,7 +6,7 @@ class CounterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-        body: Center(child: Text('Hola LMundo')),
+        body: Center(child: Text('Hola Mundo')),
       );
   }
 }
